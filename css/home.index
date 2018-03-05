@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, initial-scale=1.0, user-scalable=no">
+    <meta name="format-detection" content="telephone=no">
+    <title>Test | Home</title>
+
+    <!--<link href="https://use.fontawesome.com/releases/v5.0.7/css/all.css" rel="stylesheet">-->
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700" rel="stylesheet">
+    <link type="text/css" rel="stylesheet" href="css/fontawesome-all.css">
+    <link type="text/css" rel="stylesheet" href="css/style.css">
+
+    <script type="text/javascript" src="scripts/common-scripts.js"></script>
+
+    </head>
+
+    <body>
+        <div class="main-wrap">
+          <!-- Beginning hero section -->
+           <section class="hero-section">
+              <div class="common-wrap clear hero-inner">
+                  <h4>your personal</h4>
+                  <h1>Shopping Concierge</h1>
+                  <div class="btn-wrap">
+                    <a href="#" class="btn white-btn">Get a Quote</a>
+                    <a href="#" class="btn transparent-btn">Learn More</a>
+                  </div>
+              </div>
+           </section>
+           <!-- //End hero section -->
+
+           <!-- Beginning mordern tools section -->
+           <section class="mordern-tools-section">
+             <div class="common-wrap clear mordern-tools-inner">
+                <h2 class="section-title">Modern Tools</h2>
+                <div class="tools-item-wrap">
+                    <div class="tools-item">
+                        <i class="far fa-heart"></i>
+                        <h6>Boost performance</h6>
+                        <p>Ipsum dolor sit amet, consectetur adipisicing elit, labore et dolore magna aliqua.</p>
+                    </div>
+                    <div class="tools-item">
+                        <i class="fab fa-audible"></i>
+                        <h6>Highly customizable</h6>
+                        <p>Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                    </div>
+                    <div class="tools-item">
+                        <i class="fas fa-edit"></i>
+                        <h6>Simplified workflow</h6>
+                        <p>Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et aliqua.</p>
+                    </div>
+                    <div class="tools-item">
+                        <i class="fas fa-desktop"></i>
+                        <h6>Cross platform</h6>
+                        <p>sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor.</p>
+                    </div>
+                </div>
+             </div>
+           </section>
+           <!-- //End mordern tools section -->
+
+           <!-- Beginning Check out section -->
+           <section class="check-out-section">
+             <div class="common-wrap clear check-out-inner">
+               <h2 class="section-title">Check out our reviews</h2>
+               <div class="chckout-item-wrap common-wrap clear">
+                 <div class="item-coll clear">
+                   <div class="item-figure white-box clear"></div>
+                   <div class="item-figure white-box clear"></div>
+                 </div>
+                 <div class="item-coll clear">
+                   <div class="item-figure blue-box clear"></div>
+                 </div>
+                 <div class="item-coll clear">
+                   <div class="item-figure white-box clear"></div>
+                   <div class="item-figure blue-box clear"></div>
+                 </div>
+               </div>
+             </div>
+           </section>
+        </div>
+    </body>
+</html>
